@@ -1,4 +1,39 @@
-## Hi there 👋
+## Describe in 42Seoul Activity
+
+### What is this?
+
+- It is describe active in 42seoul. 42seoul means a 42 activity in seoul.
+
+### Member
+
+- sunghwki (Sung Hwan Kim)
+- (2021.04 ~)
+
+### Education
+
+#### Circle00
+
+- libft         (Replicate simple C functions)
+
+#### Circle01
+
+- Born2beroot   (Setting debian server)
+- ft_printf     (Replicate C function "printf" using va_arg)
+- get_next_line (Replicate "readline" in libreadline")
+
+#### Circle02
+
+- push_swap     (Sorting integer using 2 stack and such a simple instruction)
+- pipex         (Replicate linux system call "pipe ('|')" and redirection)
+- fract-ol      (Make my own fractal)
+
+#### Circle03
+- minishell     (Replicate bash using system call)
+- Philosopher   (Solving "Dining Philosopher" problem)
+
+#### Circle04
+- miniRT        (Make 3D figure using raytracing)
+  
 
 <!--
 
